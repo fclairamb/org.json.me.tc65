@@ -1,7 +1,7 @@
 # org.json.me.tc65
 
 ## Why
-You can use this library out of the box in your TC65/TC65i apps as a standard library or as liblet.
+These files are provided as a standard library to do some JSON programming.
 
 ## Files
 * [org.json.me.tc65.jar](https://github.com/superfc/org.json.me.tc65/raw/master/org.json.me.tc65/dist/org.json.me.tc65.jar) (14KB)
