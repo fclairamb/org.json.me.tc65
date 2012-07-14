@@ -1,0 +1,7 @@
+MIDlet-Jar-Size: 20608
+MIDlet-Jar-URL: org.json.me.tc65.jar
+MIDlet-Name: org.json.me.tc65
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: IMP-NG
