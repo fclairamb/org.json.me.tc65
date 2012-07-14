@@ -1,5 +1,5 @@
-MIDlet-Jar-Size: 20608
-MIDlet-Jar-URL: org.json.me.tc65.jar
+MIDlet-Jar-Size: 14273
+MIDlet-Jar-URL: https://github.com/superfc/org.json.me.tc65/raw/master/org.json.me.tc65/dist/org.json.me.tc65.jar
 MIDlet-Name: org.json.me.tc65
 MIDlet-Vendor: Vendor
 MIDlet-Version: 1.0
